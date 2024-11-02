@@ -1,6 +1,6 @@
 **Project Title:** Designing Advanced Data Architectures for Business Intelligence - Motor Vehicle Collisions/Crashes Analysis
 
-**Introduction:**
+**Introduction:** 
 This project aims to design and implement advanced data architectures for analyzing motor vehicle collisions and crashes data from three major cities: New York, Chicago, and Austin. The data will be obtained from the respective Department of Transportation portals of each city. The project will involve data extraction, transformation, loading (ETL), dimensional modeling, and visualization using tools like Alteryx, Talend, Azure SQL Server/MySQL/SQL Server, Tableau, and Power BI.
 
 **Project Details:**
